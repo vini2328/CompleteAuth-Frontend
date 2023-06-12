@@ -1,5 +1,4 @@
 import React,{useEffect, useState,useRef} from 'react'
-import { InputText } from 'primereact/inputtext';
 import { Button } from 'primereact/button';
 import { CONFIRM_PASSWORD } from '../constants/const';
 import axios from 'axios'
